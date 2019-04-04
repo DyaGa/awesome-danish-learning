@@ -6,6 +6,9 @@
  - [2,000 Most Common Danish Words](https://docs.google.com/spreadsheets/d/1KO8AFlSjHOMzbjFCrjFKkJGW1XpxX_vs5S-T3oLzgyw/edit) (Google sheets)
  - [5000 most used Danish words](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Danish_wordlist) based on contents of www.opensubtitles.org
 
+### YouTube
+ - [ENGLISH DANISH language course 100 LESSONS + TEXT](https://www.youtube.com/watch?v=KUB8bYZkc7c&feature=youtu.be)
+
 ## Applications
 
 ### AnkiDroid (https://apps.ankiweb.net/)
