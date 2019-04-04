@@ -4,6 +4,7 @@
 
  - [1,000 Most Common Danish Words](https://www.101languages.net/danish/most-common-danish-words/)
  - [2,000 Most Common Danish Words](https://docs.google.com/spreadsheets/d/1KO8AFlSjHOMzbjFCrjFKkJGW1XpxX_vs5S-T3oLzgyw/edit) (Google sheets)
+ - [5000 most used Danish words](https://en.wiktionary.org/wiki/Wiktionary:Frequency_lists/Danish_wordlist) based on contents of www.opensubtitles.org
 
 ## Applications
 
